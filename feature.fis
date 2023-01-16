@@ -1,0 +1,114 @@
+[System]
+Name='feature'
+Type='mamdani'
+Version=2.0
+NumInputs=5
+NumOutputs=1
+NumRules=41
+AndMethod='prod'
+OrMethod='max'
+ImpMethod='prod'
+AggMethod='probor'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='SS'
+Range=[0 1]
+NumMFs=5
+MF1='VL':'gaussmf',[0.1 0]
+MF2='L':'gaussmf',[0.1 0.25]
+MF3='M':'gaussmf',[0.1 0.5]
+MF4='H':'gaussmf',[0.1 0.75]
+MF5='VH':'gaussmf',[0.1 1]
+
+[Input2]
+Name='CR'
+Range=[0 1]
+NumMFs=5
+MF1='VL':'gaussmf',[0.1 0]
+MF2='L':'gaussmf',[0.1 0.25]
+MF3='M':'gaussmf',[0.1 0.5]
+MF4='H':'gaussmf',[0.1 0.75]
+MF5='VH':'gaussmf',[0.1 1]
+
+[Input3]
+Name='SF'
+Range=[0 1]
+NumMFs=5
+MF1='VL':'gaussmf',[0.1 0]
+MF2='L':'gaussmf',[0.1 0.25]
+MF3='M':'gaussmf',[0.1 0.5]
+MF4='H':'gaussmf',[0.1 0.75]
+MF5='VH':'gaussmf',[0.1 1]
+
+[Input4]
+Name='SFP'
+Range=[0 1]
+NumMFs=5
+MF1='VL':'gaussmf',[0.1 0]
+MF2='L':'gaussmf',[0.1 0.25]
+MF3='M':'gaussmf',[0.1 0.5]
+MF4='H':'gaussmf',[0.1 0.75]
+MF5='VH':'gaussmf',[0.1 1]
+
+[Input5]
+Name='FM'
+Range=[0 1]
+NumMFs=4
+MF1='L':'gaussmf',[0.1 0]
+MF2='M':'gaussmf',[0.1 0.3333]
+MF3='H':'gaussmf',[0.1 0.6667]
+MF4='VH':'gaussmf',[0.1 1]
+
+[Output1]
+Name='likelihoods'
+Range=[0 1]
+NumMFs=5
+MF1='VL':'gaussmf',[0.1 0]
+MF2='L':'gaussmf',[0.1 0.25]
+MF3='M':'gaussmf',[0.1 0.5]
+MF4='H':'gaussmf',[0.1 0.75]
+MF5='VH':'gaussmf',[0.1 1]
+
+[Rules]
+1 0 0 0 1, 1 (1) : 1
+1 0 0 0 2, 2 (1) : 1
+1 0 0 0 3, 2 (1) : 1
+1 0 0 0 4, 2 (1) : 1
+2 0 0 0 1, 2 (1) : 1
+2 0 0 0 2, 2 (1) : 1
+2 0 0 0 3, 3 (1) : 1
+2 0 0 0 4, 3 (1) : 1
+3 0 0 0 1, 3 (1) : 1
+3 0 0 0 2, 3 (1) : 1
+3 0 0 0 3, 4 (1) : 1
+3 0 0 0 4, 5 (1) : 1
+4 0 0 0 1, 4 (1) : 1
+4 0 0 0 2, 4 (1) : 1
+4 0 0 0 3, 5 (1) : 1
+4 0 0 0 4, 5 (1) : 1
+5 0 0 0 0, 5 (1) : 1
+0 1 0 0 1, 1 (1) : 1
+0 1 0 0 2, 2 (1) : 1
+0 1 0 0 3, 2 (1) : 1
+0 1 0 0 4, 2 (1) : 1
+0 2 0 0 1, 2 (1) : 1
+0 2 0 0 2, 2 (1) : 1
+0 2 0 0 3, 3 (1) : 1
+0 2 0 0 4, 3 (1) : 1
+0 3 0 0 1, 3 (1) : 1
+0 3 0 0 2, 3 (1) : 1
+0 3 0 0 3, 4 (1) : 1
+0 3 0 0 4, 5 (1) : 1
+0 4 0 0 1, 4 (1) : 1
+0 4 0 0 2, 4 (1) : 1
+0 4 0 0 3, 5 (1) : 1
+0 4 0 0 4, 5 (1) : 1
+0 4 0 0 0, 5 (1) : 1
+0 0 1 0 0, 1 (1) : 1
+0 0 2 0 0, 2 (1) : 1
+0 0 3 0 0, 3 (1) : 1
+0 0 4 0 0, 4 (1) : 1
+0 0 5 0 0, 5 (1) : 1
+0 0 0 4 0, 4 (1) : 1
+0 0 0 5 0, 5 (1) : 1

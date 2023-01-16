@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d57f8c47-d4e3-4e7e-a641-2b4f42c6e5fa" name="cc" url="http://202.4.130.28">
+        <fileTransfer rootFolder="/home/tianshuaihua/py" accessType="SFTP" host="202.4.130.28" port="22" sshConfigId="e03722dd-7929-4b4c-a272-dc2c19389c4b" sshConfig="tianshuaihua@202.4.130.28:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="588127f0-bca0-4509-bbeb-1cf127d58a82" name="30cc" url="http://202.4.130">
+        <fileTransfer rootFolder="/home/tianshuaihua/py" accessType="SFTP" host="202.4.130.30" port="22" sshConfigId="50866398-b8ce-4fdc-bcb7-9acb345bf2c8" sshConfig="tianshuaihua@202.4.130.30:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

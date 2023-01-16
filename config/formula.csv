@@ -1,0 +1,22 @@
+name,formula
+dstar,"(math.pow(aef,index)) / (aep + (tf - aef))"
+dstar_sub_one,1 / (aep + (tf - aef))
+ochiai,aef / math.sqrt(tf * (aef+aep))
+ochiai_sub_one,1 / math.sqrt(tf)
+ochiai_sub_two,1 / math.sqrt(aef+aep)
+gp13,aef + (aef / (2 * aep + aef))
+gp13_sub_one,1 / (2 * aep + aef)
+gp13_sub_two,aef / (2 * aep + aef)
+op2,aef - (aep / (tp + 1))
+op2_sub_one,aep / (tp + 1)
+op2_sub_two,1 / (tp + 1)
+jaccard,aef / (tf + aep)
+jaccard_sub_one,1 / (tf + aep)
+russell,aef / (aep + anp + aef + anf)
+russell_sub_one,1 / (aep + anp + aef + anf)
+turantula,(aef / tf) / ((aef / tf) + (aep / tp))
+turantula_sub_one,1 / ((aef / tf) + (aep / tp))
+naish1,(-1 if anf > 0 else anp)
+binary,(0 if aef > 0 else 1)
+crosstab,(aef)
+dstar2,"(math.pow(aef,2)) / (aep + (tf - aef))"

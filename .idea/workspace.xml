@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95aa2d1b-840c-408c-9a99-02b3492d26cb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BI4aburOtFVFFXNBDWXy90MIQ0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CC\start" />
+      <recent name="D:\CC\start\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CC\start\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Base_Fault">
+    <configuration name="Base_Fault" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="start" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base_Fault.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FCCI_Fault" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="start" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FCCI_Fault.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FaultMe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="start" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaultMe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Localization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="start" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Localization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="start" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda\envs\python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zana" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="start" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zana.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Base_Fault" />
+        <item itemvalue="Python.zana" />
+        <item itemvalue="Python.FaultMe" />
+        <item itemvalue="Python.FCCI_Fault" />
+        <item itemvalue="Python.Localization" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\26574\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95aa2d1b-840c-408c-9a99-02b3492d26cb" name="Changes" comment="" />
+      <created>1656580332079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656580332079</updated>
+      <workItem from="1656580333513" duration="524000" />
+      <workItem from="1656580876679" duration="789000" />
+      <workItem from="1656581692710" duration="2614000" />
+      <workItem from="1656637766202" duration="22784000" />
+      <workItem from="1656828060019" duration="4303000" />
+      <workItem from="1656898577462" duration="26300000" />
+      <workItem from="1656986184123" duration="3556000" />
+      <workItem from="1657244894401" duration="4341000" />
+      <workItem from="1657251158743" duration="8528000" />
+      <workItem from="1657501435806" duration="5886000" />
+      <workItem from="1657524308208" duration="27766000" />
+      <workItem from="1657672629119" duration="22499000" />
+      <workItem from="1657781434442" duration="1324000" />
+      <workItem from="1657866235991" duration="6324000" />
+      <workItem from="1658106834002" duration="7415000" />
+      <workItem from="1658123605884" duration="5181000" />
+      <workItem from="1658192664626" duration="37489000" />
+      <workItem from="1658317155293" duration="933000" />
+      <workItem from="1658364291770" duration="2994000" />
+      <workItem from="1658450743818" duration="6198000" />
+      <workItem from="1659316832593" duration="26524000" />
+      <workItem from="1659401973173" duration="31021000" />
+      <workItem from="1659488113142" duration="6324000" />
+      <workItem from="1659616528260" duration="4766000" />
+      <workItem from="1659662748833" duration="25842000" />
+      <workItem from="1659775124336" duration="647000" />
+      <workItem from="1659792144069" duration="168000" />
+      <workItem from="1659940951855" duration="15849000" />
+      <workItem from="1660004918850" duration="13237000" />
+      <workItem from="1660019457817" duration="19757000" />
+      <workItem from="1660096270497" duration="1144000" />
+      <workItem from="1660137239170" duration="677000" />
+      <workItem from="1660220280495" duration="396000" />
+      <workItem from="1660266987740" duration="16131000" />
+      <workItem from="1660526849603" duration="14727000" />
+      <workItem from="1660610268761" duration="3109000" />
+      <workItem from="1660637898276" duration="5872000" />
+      <workItem from="1660707500973" duration="25000" />
+      <workItem from="1660784748969" duration="4139000" />
+      <workItem from="1660794433443" duration="700000" />
+      <workItem from="1660803488103" duration="2667000" />
+      <workItem from="1660806230713" duration="4946000" />
+      <workItem from="1660827472414" duration="1404000" />
+      <workItem from="1660870428634" duration="14238000" />
+      <workItem from="1660899298138" duration="6143000" />
+      <workItem from="1660961425981" duration="5427000" />
+      <workItem from="1661064720605" duration="86000" />
+      <workItem from="1661065428235" duration="4583000" />
+      <workItem from="1661129090802" duration="3184000" />
+      <workItem from="1661158938732" duration="839000" />
+      <workItem from="1661170998046" duration="418000" />
+      <workItem from="1661238121968" duration="752000" />
+      <workItem from="1661393029700" duration="5952000" />
+      <workItem from="1661413557324" duration="612000" />
+      <workItem from="1661428423094" duration="3550000" />
+      <workItem from="1661474601173" duration="26461000" />
+      <workItem from="1661568030413" duration="14436000" />
+      <workItem from="1661654457321" duration="12646000" />
+      <workItem from="1661688414972" duration="216000" />
+      <workItem from="1661744175317" duration="21457000" />
+      <workItem from="1661772728121" duration="2073000" />
+      <workItem from="1661823396634" duration="27438000" />
+      <workItem from="1661866365311" duration="1507000" />
+      <workItem from="1661870142361" duration="3374000" />
+      <workItem from="1661908075566" duration="56651000" />
+      <workItem from="1662025077833" duration="40172000" />
+      <workItem from="1662212886342" duration="8677000" />
+      <workItem from="1662340517775" duration="28633000" />
+      <workItem from="1662389513265" duration="622000" />
+      <workItem from="1662391576772" duration="1264000" />
+      <workItem from="1662427577655" duration="30748000" />
+      <workItem from="1662514404917" duration="120826000" />
+      <workItem from="1662807073564" duration="242000" />
+      <workItem from="1662983129700" duration="253000" />
+      <workItem from="1663030609586" duration="33000" />
+      <workItem from="1663052295417" duration="3511000" />
+      <workItem from="1663064440183" duration="649000" />
+      <workItem from="1663210018659" duration="643000" />
+      <workItem from="1663310984138" duration="202000" />
+      <workItem from="1663314500172" duration="1559000" />
+      <workItem from="1663503248093" duration="2098000" />
+      <workItem from="1663557350591" duration="1763000" />
+      <workItem from="1663577386478" duration="1102000" />
+      <workItem from="1663595354843" duration="1702000" />
+      <workItem from="1663635247940" duration="14495000" />
+      <workItem from="1663666097975" duration="60000" />
+      <workItem from="1663666320738" duration="2799000" />
+      <workItem from="1663673125183" duration="906000" />
+      <workItem from="1663759086960" duration="784000" />
+      <workItem from="1663855328083" duration="81000" />
+      <workItem from="1664070424804" duration="13175000" />
+      <workItem from="1664155884013" duration="10492000" />
+      <workItem from="1664187732685" duration="11317000" />
+      <workItem from="1664246675833" duration="2808000" />
+      <workItem from="1664258801625" duration="10358000" />
+      <workItem from="1664275209509" duration="2212000" />
+      <workItem from="1664287306166" duration="19906000" />
+      <workItem from="1664350562612" duration="3408000" />
+      <workItem from="1664355877658" duration="1402000" />
+      <workItem from="1664360995911" duration="34000" />
+      <workItem from="1664373999870" duration="1050000" />
+      <workItem from="1664375071829" duration="352000" />
+      <workItem from="1664376449494" duration="830000" />
+      <workItem from="1664413689748" duration="156000" />
+      <workItem from="1664439291182" duration="1546000" />
+      <workItem from="1664451232187" duration="4000" />
+      <workItem from="1664468822101" duration="970000" />
+      <workItem from="1664498465674" duration="16047000" />
+      <workItem from="1664759790980" duration="16261000" />
+      <workItem from="1664791242290" duration="5624000" />
+      <workItem from="1664847639761" duration="15166000" />
+      <workItem from="1664933279251" duration="1981000" />
+      <workItem from="1664936535069" duration="14015000" />
+      <workItem from="1664963662856" duration="17288000" />
+      <workItem from="1665022577301" duration="8726000" />
+      <workItem from="1665124983600" duration="13836000" />
+      <workItem from="1665196690244" duration="22796000" />
+      <workItem from="1665243281275" duration="29000" />
+      <workItem from="1665277758705" duration="32522000" />
+      <workItem from="1665364684977" duration="24827000" />
+      <workItem from="1665628255569" duration="18153000" />
+      <workItem from="1665883418985" duration="9477000" />
+      <workItem from="1665974643052" duration="64000" />
+      <workItem from="1665993569864" duration="618000" />
+      <workItem from="1666059842580" duration="1975000" />
+      <workItem from="1666092302857" duration="1073000" />
+      <workItem from="1666140181175" duration="37000" />
+      <workItem from="1666169168893" duration="337000" />
+      <workItem from="1666270332480" duration="5896000" />
+      <workItem from="1666345255994" duration="1923000" />
+      <workItem from="1666582550652" duration="1689000" />
+      <workItem from="1666618343210" duration="186000" />
+      <workItem from="1666659346434" duration="2158000" />
+      <workItem from="1666661578894" duration="5550000" />
+      <workItem from="1666744860531" duration="9375000" />
+      <workItem from="1666832597021" duration="6986000" />
+      <workItem from="1666923970382" duration="22000" />
+      <workItem from="1667377659992" duration="5008000" />
+      <workItem from="1667437044675" duration="3926000" />
+      <workItem from="1667542789185" duration="847000" />
+      <workItem from="1667741328740" duration="1592000" />
+      <workItem from="1667744194038" duration="104000" />
+      <workItem from="1667815609209" duration="65000" />
+      <workItem from="1667821790993" duration="820000" />
+      <workItem from="1667891555953" duration="455000" />
+      <workItem from="1668062094616" duration="841000" />
+      <workItem from="1668134307098" duration="67000" />
+      <workItem from="1668322176544" duration="2091000" />
+      <workItem from="1668389447103" duration="4030000" />
+      <workItem from="1668590533849" duration="4671000" />
+      <workItem from="1668845752331" duration="1840000" />
+      <workItem from="1668908427687" duration="196000" />
+      <workItem from="1668997553388" duration="210000" />
+      <workItem from="1669642404901" duration="632000" />
+      <workItem from="1669643822764" duration="254000" />
+      <workItem from="1670579172635" duration="631000" />
+      <workItem from="1670597191156" duration="2063000" />
+      <workItem from="1670681266345" duration="755000" />
+      <workItem from="1670744296911" duration="2880000" />
+      <workItem from="1670897601945" duration="2853000" />
+      <workItem from="1670920139163" duration="1436000" />
+      <workItem from="1670986617609" duration="16898000" />
+      <workItem from="1671067226104" duration="30833000" />
+      <workItem from="1671277864426" duration="11000" />
+      <workItem from="1671278052634" duration="11000" />
+      <workItem from="1671333039213" duration="2067000" />
+      <workItem from="1671435491414" duration="793000" />
+      <workItem from="1671436590617" duration="2084000" />
+      <workItem from="1671442906119" duration="1094000" />
+      <workItem from="1671502500068" duration="8089000" />
+      <workItem from="1671538403009" duration="254000" />
+      <workItem from="1672057964908" duration="3858000" />
+      <workItem from="1672214412543" duration="4382000" />
+      <workItem from="1672297804340" duration="15191000" />
+      <workItem from="1672364890622" duration="6243000" />
+      <workItem from="1672389792558" duration="26000" />
+      <workItem from="1672391723389" duration="1575000" />
+      <workItem from="1672450852649" duration="5271000" />
+      <workItem from="1672485144101" duration="608000" />
+      <workItem from="1672655062102" duration="1481000" />
+      <workItem from="1672727738637" duration="17310000" />
+      <workItem from="1672799189268" duration="41480000" />
+      <workItem from="1672909494310" duration="23610000" />
+      <workItem from="1673072076873" duration="5665000" />
+      <workItem from="1673250745443" duration="1220000" />
+      <workItem from="1673342531913" duration="8000" />
+      <workItem from="1673784597280" duration="2128000" />
+      <workItem from="1673786750537" duration="3185000" />
+      <workItem from="1673832768388" duration="5488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Documents/WeChat Files/wxid_f6isvreb6klw21/FileStorage/File/2022-08/Tool_CC.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Atest.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FCCI_Fault.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="620" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sttaic_code_features.py</url>
+          <line>689</line>
+          <option name="timeStamp" value="698" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyTest.py</url>
+          <line>223</line>
+          <option name="timeStamp" value="708" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sttaic_code_features.py</url>
+          <line>600</line>
+          <option name="timeStamp" value="734" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/zana.py</url>
+          <line>148</line>
+          <option name="timeStamp" value="758" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/zana.py</url>
+          <line>201</line>
+          <option name="timeStamp" value="759" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sttaic_code_features.py</url>
+          <line>589</line>
+          <option name="timeStamp" value="764" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Me2_留一法.py</url>
+          <line>254</line>
+          <option name="timeStamp" value="771" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Me2_留一法.py</url>
+          <line>255</line>
+          <option name="timeStamp" value="772" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Me2_留一法.py</url>
+          <line>221</line>
+          <option name="timeStamp" value="773" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Me2_留一法.py</url>
+          <line>260</line>
+          <option name="timeStamp" value="775" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FCCI_Fault.py</url>
+          <line>303</line>
+          <option name="timeStamp" value="814" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Base_Fault.py</url>
+          <line>281</line>
+          <option name="timeStamp" value="816" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Base_Fault.py</url>
+          <line>211</line>
+          <option name="timeStamp" value="818" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Base_Fault.py</url>
+          <line>215</line>
+          <option name="timeStamp" value="819" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Base_Fault.py</url>
+          <line>136</line>
+          <option name="timeStamp" value="821" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="tree.children" />
+        <watch expression="tree.children[2]" />
+        <watch expression="tree.attrs" />
+        <watch expression="tree.children" />
+        <watch expression="tree.children[2][0].methods[0].body[0].children[3][0].attrs" />
+        <watch expression="tree.children[2][0].methods[0].body[0].attrs" />
+        <watch expression="tree.children[2][0].methods[0].body[0].attrs" />
+        <watch expression="tree.children[2][0].methods[0]" />
+        <watch expression="lines" />
+        <watch expression="tree.children[2][0].children[5]" />
+        <watch expression="tree" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/start$DealComplexity.coverage" NAME="DealComplexity Coverage Results" MODIFIED="1661918830331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$Sttaic_code_features.coverage" NAME="Sttaic_code_features Coverage Results" MODIFIED="1672731822084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$.coverage" NAME="测试 Coverage Results" MODIFIED="1664518263416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/模型输出论证(1)" />
+    <SUITE FILE_PATH="coverage/start$FCCI_model.coverage" NAME="FCCI_model Coverage Results" MODIFIED="1672215531275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$Static_code_machine.coverage" NAME="Static_code_machine Coverage Results" MODIFIED="1658366038758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$Methods.coverage" NAME="Methods Coverage Results" MODIFIED="1662568598989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$Tool_CC.coverage" NAME="Tool_CC Coverage Results" MODIFIED="1661507806329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/wxid_f6isvreb6klw21/FileStorage/File/2022-08" />
+    <SUITE FILE_PATH="coverage/start$FaultMe.coverage" NAME="FaultMe Coverage Results" MODIFIED="1673091504414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$MeRF_.coverage" NAME="MeRF_留一法 Coverage Results" MODIFIED="1672815974562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$Tool_io.coverage" NAME="Tool_io Coverage Results" MODIFIED="1656668763260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$Tool_localization.coverage" NAME="Tool_localization Coverage Results" MODIFIED="1664960036857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$FuzzyKnn.coverage" NAME="FuzzyKnn Coverage Results" MODIFIED="1661855151956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$Me2.coverage" NAME="Me2 Coverage Results" MODIFIED="1665669242347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$MyTest2.coverage" NAME="MyTest2 Coverage Results" MODIFIED="1671079673393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$Test_fun.coverage" NAME="Test_fun Coverage Results" MODIFIED="1664206599249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$featureExtract.coverage" NAME="featureExtract Coverage Results" MODIFIED="1672219038328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$zana.coverage" NAME="zana Coverage Results" MODIFIED="1673092230832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$halstead.coverage" NAME="halstead Coverage Results" MODIFIED="1657680791665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Halstead-Metrics-master" />
+    <SUITE FILE_PATH="coverage/start$bsse_Location.coverage" NAME="bsse_Location Coverage Results" MODIFIED="1671019380427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$MyTest.coverage" NAME="MyTest Coverage Results" MODIFIED="1667743135081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$Localization.coverage" NAME="Localization Coverage Results" MODIFIED="1672928291382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$LOCAnalyse.coverage" NAME="LOCAnalyse Coverage Results" MODIFIED="1657681716519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../zzzz/SoftwareMetricsAnalyse-master" />
+    <SUITE FILE_PATH="coverage/start$Base_Fault.coverage" NAME="Base_Fault Coverage Results" MODIFIED="1673104897102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$Idea_cal.coverage" NAME="Idea_cal Coverage Results" MODIFIED="1664270274552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$FCCI_localization.coverage" NAME="FCCI_localization Coverage Results" MODIFIED="1671110565447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$Me2_.coverage" NAME="Me2_留一法 Coverage Results" MODIFIED="1672804383236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$Atest.coverage" NAME="Atest Coverage Results" MODIFIED="1664790545191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/start$FCCI_Fault.coverage" NAME="FCCI_Fault Coverage Results" MODIFIED="1672967330210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
