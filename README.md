@@ -13,3 +13,14 @@ python 3.10
 3. Executing the main function in **Location.py** to calculate the list of suspicious statements.
 
 4. Executing the main function in **FaultMe.py** to get the metrics of fault localization which contains *Wasted Effort* and *Accuracy@N*.
+
+## CC test cases identification effectiveness
+
+|         | recall      | precision   | Fmeasure    |
+| ------- | ----------- | ----------- | ----------- |
+| Chart   | 0.70678573  | 0.764542858 | 0.614284282 |
+| Closure | 0.564118525 | 0.659738972 | 0.405995092 |
+| Lang    | 0.823393754 | 0.70969002  | 0.682536472 |
+| Math    | 0.721521518 | 0.803535647 | 0.637544356 |
+| Mockito | 0.538994657 | 0.651006533 | 0.369293186 |
+| Time    | 0.431170317 | 0.70928829  | 0.406689391 |
