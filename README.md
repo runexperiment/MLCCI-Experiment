@@ -1,8 +1,6 @@
 # MLCCI-Experiment
 
-# MLCCI code
-
-**The experiment is divided into two parts, one is MCLLI approach and the other is Fuzzy Weighted KNN approach which is baseline.**
+**The Spectrum-Based Fault Localization (SBFL) technique is widely used for identifying and pinpointing the source of bugs in software. Despite ongoing research efforts to improve SBFL techniques, they can still be hindered by the presence of Coincidental Correct (CC) test cases in test suites. These test cases can negatively impact the accuracy of SBFL. To address this issue, we propose a new approach, the Machine Learning-based CC Test Case Identification (MLCCI), which utilizes multiple features extracted from the program under test to identify and eliminate CC test cases.**
 
 ## Running MCLLI approach experimental code
 
