@@ -24,3 +24,15 @@ python 3.10
 | Math    | 72.15% | 80.35%    | 63.75%   |
 | Mockito | 53.90% | 65.10%    | 36.93%   |
 | Time    | 43.12% | 70.93%    | 40.67%   |
+
+## Fault Localization effectiveness
+
+|         | sus_formula        | top-5 | top-3 | top-1 |
+| ------- | ------------------ | ----- | ----- | ----- |
+| Chart   | jaccard_Relabeling | 21    | 18    | 17    |
+| Closure | jaccard_Relabeling | 112   | 107   | 102   |
+| Lang    | jaccard_Relabeling | 48    | 37    | 35    |
+| Math    | jaccard_Relabeling | 139   | 137   | 132   |
+| Mockito | jaccard_Relabeling | 10    | 10    | 8     |
+| Time    | jaccard_Relabeling | 23    | 23    | 15    |
+| total   | jaccard_Relabeling | 353   | 332   | 309   |
