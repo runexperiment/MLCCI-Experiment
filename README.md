@@ -4,11 +4,11 @@
 
 ## Runtime environment
 python 3.10
-## Running MCLLI approach experimental code
+## Executing the MCLLI method experimental code
 
 1. Executing the main function of **featureExtract.py**, obtain the results of four feature calculations.
 
-2. Executing the main function of **Me2.py**, calculating CC recognition results, including *Recall*, *Precision*, *FPR* and *F1-score*. In addition, obtaining the random forest's training model.
+2. Executing the main function of **MeRF_留一法.py**, calculating CC recognition results, including *Recall*, *Precision*, *FPR* and *F1-score*. In addition, obtaining the random forest's training model.
 
 3. Executing the main function in **Location.py** to calculate the list of suspicious statements.
 
